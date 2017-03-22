@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MachineLearningPecipesByGoogleDev.iml" filepath="$PROJECT_DIR$/.idea/MachineLearningPecipesByGoogleDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MachineLearningRecipesByGoogleDev.iml" filepath="$PROJECT_DIR$/.idea/MachineLearningRecipesByGoogleDev.iml" />
     </modules>
   </component>
 </project>
